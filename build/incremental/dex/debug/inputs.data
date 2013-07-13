@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373686994000 829 3809d853a91763d5b920f89d6bd7632afe9b9bed /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/MainActivity.class
+1373686994000 358 32df4b1b4e2f5937f58b5c684fe9a411a50dce10 /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R$attr.class
+1373686994000 737 b2e2216b93d493bc889e9914790921723964ca4b /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R.class
+1373686994000 411 7d0062e53aef873d9e7d57fddf136f8ed0515fcf /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R$id.class
+1373686994000 421 09f6bba10a2d634e905a947b106c7a8c2ef1492e /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R$layout.class
+1373686994000 479 8dd75cfd07a121d7406e57350084e9525173075b /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R$dimen.class
+1373686994000 406 2cd58fe922b5a3eff24791b3d3c32a7615345a7f /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R$menu.class
+1373686994000 357 eae2787dcc7ea42ee58ffed5e45860c09f547b2b /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/BuildConfig.class
+1373686994000 425 00abeec74a0fab6f2e29e56075e35045c57fb422 /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R$drawable.class
+1373686994000 449 b83164915b103bbb6e3b6582482524bea0b87a12 /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R$style.class
+1373686959000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/libs/android-support-v4.jar
+1373686994000 490 1eac92a655829df1c172b293f20ffb3639319e1f /home/mphox/Android_studioProjects/LetsGo_FinalProject/LetsGo_Final/build/classes/debug/com/example/letsgo_final/R$string.class
